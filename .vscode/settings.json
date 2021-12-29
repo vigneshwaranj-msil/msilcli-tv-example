@@ -1,0 +1,22 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.autoIndent": "full",
+    "editor.tabCompletion": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.comments.ignoreEmptyLines": true,
+    "diffEditor.wordWrap": "on",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.maxTokenizationLineLength": 2500
+    },
+    "files.association": {  
+        "src/thirdparty/*": "plaintext"
+    },
+    "css.completion.completePropertyWithSemicolon": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    }
+}

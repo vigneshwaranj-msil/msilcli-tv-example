@@ -1,0 +1,16 @@
+#environment
+.env
+
+#dependencies
+node_modules
+*-lock.json
+*.lock
+
+#build directories
+build
+dev
+dist
+prod
+
+#logs
+*.log

@@ -1,0 +1,46 @@
+{
+  "include": [
+    "./src/**/*.ts",
+  ],
+  "compilerOptions": {
+    "target": "ES2020",
+    /* Modules */
+    "module": "ES2020",
+    "moduleResolution": "Node",
+    "baseUrl": "./",
+    "paths": {
+      "chartLibrary/*": [
+        "src/thirdparty/*"
+      ]
+    },
+    "noEmitOnError": true,
+    /* JavaScript Support */
+    "checkJs": false,
+    "allowJs": true,
+    "outDir": "./src/",
+    "esModuleInterop": false,
+    "preserveSymlinks": false,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "useUnknownInCatchVariables": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false,
+    /* Completeness */
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "./dev",
+    "./dist",
+    "./build",
+    "./src/thirdparty/**/*"
+  ]
+}

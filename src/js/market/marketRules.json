@@ -1,0 +1,1206 @@
+{
+    "NSE": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            },
+        
+            {
+                "date": "2021-02-19",
+                "name": "Chhatrapati Shivaji Maharaj Jayanti"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            }
+        ]
+    },
+    "BSE": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            }
+        ]
+    },
+    "NFO": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:15",
+                "close": "15:30"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            },
+            {
+                "date": "2021-02-19",
+                "name": "Chhatrapati Shivaji Maharaj Jayanti"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            }
+        ]
+    },
+    "BFO": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:15",
+                "close": "15:35"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            }
+        ]
+    },
+    "NCO": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "23:30"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "23:30"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "23:30"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "23:30"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "23:30"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+           
+            {
+                "date": "2021-02-19",
+                "name": "Chhatrapati Shivaji Maharaj Jayanti"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan ID)"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali * Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            }
+        ]
+    },
+    "BCO": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-01-01",
+                "name": "New Year Day",
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-10-15,",
+                "name": "Dussehra",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            }
+        ]
+    },
+    "MCX": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-01-01",
+                "name": "New Year Day",
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            }
+        ]
+    },
+    "ICEX": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-01-01",
+                "name": "New Year Day",
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan Id)",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali-Laxmi Pujan",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada",
+                "open": "17:00",
+                "close": "23:55"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti",
+                "open": "17:00",
+                "close": "23:55"
+            }
+        ]
+    },
+    "BCD": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "17:05"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "17:05"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "17:05"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "17:05"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "17:05"
+            },
+          
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-02-19",
+                "name": "Chatrapati Shivaji Jayanti"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+           
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan ID)"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali * Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            }
+        ]
+    },
+    "MSEI": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "17:00"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-02-19",
+                "name": "Chatrapati Shivaji Jayanti"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan ID)"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali- Laxmi Pujan"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            }
+        ]
+    },
+    "CDS": {
+        "market_tz": "Asia/Kolkata",
+        "name": "National Stock Exchange of India",
+        "hour_aligned": true,
+        "rules": [
+            {
+                "dayofweek": 1,
+                "open": "09:00",
+                "close": "19:30"
+            },
+            {
+                "dayofweek": 2,
+                "open": "09:00",
+                "close": "19:30"
+            },
+            {
+                "dayofweek": 3,
+                "open": "09:00",
+                "close": "19:30"
+            },
+            {
+                "dayofweek": 4,
+                "open": "09:00",
+                "close": "19:30"
+            },
+            {
+                "dayofweek": 5,
+                "open": "09:00",
+                "close": "19:30"
+            },
+            {
+                "date": "2021-01-26",
+                "name": "Republic Day"
+            },
+            {
+                "date": "2021-02-19",
+                "name": "Chatrapati Shivaji Jayanti"
+            },
+            {
+                "date": "2021-03-11",
+                "name": "Mahashivratri"
+            },
+            {
+                "date": "2021-03-29",
+                "name": "Holi"
+            },
+            {
+                "date": "2021-04-01",
+                "name": "Annual Bank Closing"
+            },
+           
+            {
+                "date": "2021-04-02",
+                "name": "Good Friday"
+            },
+            {
+                "date": "2021-04-13",
+                "name": "Gudi Padwa"
+            },
+            {
+                "date": "2021-04-14",
+                "name": "Dr.Baba Saheb Ambedkar Jayanti"
+            },
+            {
+                "date": "2021-04-21",
+                "name": "Ram Navami"
+            },
+            {
+                "date": "2021-05-13",
+                "name": "Id-Ul-Fitr (Ramzan ID)"
+            },
+            {
+                "date": "2021-05-26",
+                "name": "Buddha Pournima"
+            },
+            {
+                "date": "2021-07-21",
+                "name": "Bakri Id"
+            },
+            {
+                "date": "2021-08-16",
+                "name": "Parsi New Year"
+            },
+            {
+                "date": "2021-08-19",
+                "name": "Moharram"
+            },
+            {
+                "date": "2021-09-10",
+                "name": "Ganesh Chaturthi"
+            },
+            {
+                "date": "2021-10-15",
+                "name": "Dussehra"
+            },
+            {
+                "date": "2021-10-19",
+                "name": "Id-E-Milad"
+            },
+            {
+                "date": "2021-11-05",
+                "name": "Diwali-Balipratipada"
+            },
+            {
+                "date": "2021-11-19",
+                "name": "Gurunanak Jayanti"
+            },
+            {
+                "date": "2021-11-04",
+                "name": "Diwali- Laxmi Pujan"
+            }
+        ]
+    },
+    "$schema": "./marketRule.schema.json"
+}

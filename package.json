@@ -1,0 +1,70 @@
+{
+    "name": "msil-charting-implementation",
+    "version": "1.0.0",
+    "description": "Basic web application displaying Finsemble charts using Charting Frameworks",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "lint": "eslint --ext .js,.ts",
+        "lint:prod": "eslint --ext .js,.ts -c .eslintrc.prod.json",
+        "build": "webpack --env.prod",
+        "build:dev": "webpack --env.dev",
+        "start": "webpack-dev-server --env.dev",
+        "start:prod": "webpack-dev-server --env.prod",
+        "ensure": "npm run lint && npm run test",
+        "init-api": "msilcli api --port 5000"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "npm run ensure",
+            "pre-push": "npm run lint:prod"
+        }
+    },
+    "devDependencies": {
+        "@babel/core": "^7.15.8",
+        "@babel/preset-env": "^7.15.8",
+        "@babel/preset-react": "^7.16.5",
+        "babel-loader": "^8.2.2",
+        "clean-webpack-plugin": "^4.0.0",
+        "copy-webpack-plugin": "^6.1.0",
+        "css-loader": "^2.1.0",
+        "eslint": "^8.4.1",
+        "eslint-webpack-plugin": "^2.0.0",
+        "extract-css-chunks-webpack-plugin": "^4.7.1",
+        "extract-loader": "^3.1.0",
+        "file-loader": "^3.0.1",
+        "fs": "0.0.1-security",
+        "html-webpack-partials-plugin": "^0.5.3",
+        "html-webpack-plugin": "^4.0.0-beta.11",
+        "husky": "^7.0.4",
+        "node-sass": "^4.14.1",
+        "resolve-url-loader": "^3.1.2",
+        "sass-loader": "^7.3.1",
+        "ts-loader": "^8.0",
+        "webpack": "^4.42.1",
+        "webpack-bundle-analyzer": "^3.6.0",
+        "webpack-cli": "^3.3.10",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "keywords": [
+        "Chart-IQ",
+        "Trading-View",
+        "Web-application",
+        "Vanilla-js",
+        "HTML",
+        "CSS"
+    ],
+    "author": "[author]@marketsimplified.com",
+    "license": "ISC",
+    "dependencies": {
+        "@msf/msf-charts-helper": "^2.0.0",
+        "core-js": "^3.19.3",
+        "regenerator-runtime": "^0.13.9",
+        "typescript": "^4.5.4",
+        "whatwg-fetch": "^3.6.2"
+    }
+}

@@ -1,0 +1,8 @@
+This Folder is for files and folders, that are pre-bundled in the sense Thirdparty files which are available for production.
+Either minified or production's optimized
+For instance
+* jquery.min.js
+* bootstrap.min.css
+All these files are added to the bundle folder either dist/dev based on the environment, So inside index.html you can add <script> or <link> tag with the src or href like 
+* "./jquery.min.js"
+* "./bootstrap.min.css"
