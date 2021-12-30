@@ -25,6 +25,16 @@ export default class APIManager extends BaseAPIManager {
 	}
 	protected __formatChartData(jsonResponse: any): Candle[] {
 		return (jsonResponse || [])
+			.map((responseCandle: any): Candle => {
+				return {
+					date: new Date(responseCandle.date),
+					open: parseFloat(responseCandle.open),
+					close: parseFloat(responseCandle.close),
+					high: parseFloat(responseCandle.high),
+					low: parseFloat(responseCandle.low),
+					volume: parseFloat(responseCandle.volume)
+				}
+			})
 			.filter(
 				(candle: Candle) =>
 					!!candle.date &&

@@ -88,13 +88,19 @@ export default class DataFeedManager implements IExternalDatafeed, IDatafeedChar
             if (isFirstCall) {
                 chartManager.getInitialData(
                     resolution,
-                    requestBody
-                ).then((jsonRes: any) => this.__apiManager.onSuccessResponseFromAPI(jsonRes, customOnResult))
+                    requestBody,
+                    {
+                        "Content-Type": "application/json"
+                    }
+                ).then((res: Response) => res.json()).then((jsonRes: any) => this.__apiManager.onSuccessResponseFromAPI(customOnResult, jsonRes))
                     .catch(err => this.__apiManager.onFailureResponse(err, customOnResult))
             } else {
                 chartManager.getHistoricData(
-                    requestBody
-                ).then((jsonRes: any) => this.__apiManager.onSuccessResponseFromAPI(jsonRes, customOnResult))
+                    requestBody,
+                    {
+                        "Content-Type": "application/json"
+                    }
+                ).then((res: Response) => res.json()).then((jsonRes: any) => this.__apiManager.onSuccessResponseFromAPI(jsonRes, customOnResult))
                     .catch(err => this.__apiManager.onFailureResponse(err, customOnResult))
             }
         }

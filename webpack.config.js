@@ -17,8 +17,8 @@ module.exports = function(env) {
         ),
         environmentVariable = {
             url: {
-                symbolSearch: "http://localhost:8010/proxy/search/",
-                feed: "http://localhost:8010/proxy/quotes/hist"
+                symbolSearch: "http://localhost:8081/search/",
+                feed: "http://localhost:8081/quotes/hist"
             }
         },
         loaders = {
