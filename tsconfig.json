@@ -1,6 +1,7 @@
 {
   "include": [
-    "./src/**/*.ts",
+    "./src/",
+    "./src/__test__/"
   ],
   "compilerOptions": {
     "target": "ES2020",
@@ -17,7 +18,7 @@
     /* JavaScript Support */
     "checkJs": false,
     "allowJs": true,
-    "outDir": "./src/",
+    "outDir": "./js_src/",
     "esModuleInterop": false,
     "preserveSymlinks": false,
     "forceConsistentCasingInFileNames": true,
@@ -41,6 +42,6 @@
     "./dev",
     "./dist",
     "./build",
-    "./src/thirdparty/**/*"
+    "./src/thirdparty/bundles/*"
   ]
 }
